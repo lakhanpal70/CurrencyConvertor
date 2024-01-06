@@ -10,7 +10,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/lakhanpal70/currency-converter.git
 Navigate to the project directory:
 
 bash
