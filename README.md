@@ -50,11 +50,11 @@ If you want to contribute to the project, follow these steps:
 
 Fork the repository.
 
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push your changes to your fork.
-Submit a pull request to the main branch of the original repository.
-Please make sure to follow the Code of Conduct.
+1. Create a new branch for your feature or bug fix.
+2. Make your changes and commit them.
+3. Push your changes to your fork.
+4. Submit a pull request to the main branch of the original repository.
+5. Please make sure to follow the Code of Conduct.
 
 License
 
